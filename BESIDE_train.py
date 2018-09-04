@@ -285,6 +285,6 @@ example:
         print('wrong mode_choose: {} (all, tri, sta)'.format(mode_choose))
         exit()
 
-    #TODO:nodes_fpath再改下
+    
     main(dataset_choose, mode_choose, emb_dim, epoch_num, dataset_train_fpath, dataset_test_fpath, dataset_nodes_fpath)
 

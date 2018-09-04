@@ -14,5 +14,7 @@ def main():
                          sta_w_for_score, sta_b_for_score, sta_w_for_score_combined, sta_b_for_score_combined) = aux_parameter
         print(epoch_emb[:5])
         print(emb_dim)
+
+        
 if __name__ == '__main__':
     main()
