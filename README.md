@@ -22,7 +22,7 @@ python preprocess_data.py slashdot ./original_dataset/soc-sign-Slashdot090221.tx
 python BESIDE_train.py slashdot tri_sta 20 100 ./dataset/soc-sign-Slashdot090221.txt.map.train ./dataset/soc-sign-Slashdot090221.txt.map.test ./dataset/soc-sign-Slashdot090221.txt.map.nodes
 ```
 
-the test result is in log/<some-name>.log
+test results are written in log/\<some-name>.log
 
 #### Options
 1.preprocess
@@ -76,7 +76,7 @@ python status_comp.py BESIDE_tri_sta slashdot ./dataset/soc-sign-Slashdot090221.
 
 #### Input
 
-Edgelist of signed directed network:
+edgelist format of signed directed network:
 	<node1_id> <node2_id> \<sign>
 
 detail can be drawn from [here](http://snap.stanford.edu/data/soc-Slashdot0902.html).
