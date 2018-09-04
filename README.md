@@ -1,4 +1,4 @@
-# ``Bridge”Enhanced Signed Directed Network Embedding
+# ``Bridge” Enhanced Signed Directed Network Embedding
 
 **Introduction**
 
@@ -11,8 +11,7 @@ This repository provides a reference implementation of BESIDE as described in th
 ### Basic Usage
 
 #### Example
-1.preprocess public dataset(download from [here](http://snap.stanford.edu/data/index.html) ):<br/>
-
+1.preprocess public dataset(download from [here](http://snap.stanford.edu/data/index.html)):
 ```
 python preprocess_data.py slashdot ./original_dataset/soc-sign-Slashdot090221.txt ./dataset/soc-sign-Slashdot090221.txt.map ./dataset/soc-sign-Slashdot090221.txt.map.train ./dataset/soc-sign-Slashdot090221.txt.map.test ./dataset/soc-sign-Slashdot090221.txt.map.nodes
 ```
