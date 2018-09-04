@@ -105,5 +105,4 @@ venv.bak/
 
 # other
 .idea/
-runs/
-log/*
+

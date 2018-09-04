@@ -1,0 +1,6 @@
+2018-09-04 16:20:49.604342: model: ./emb/example.emb.ep10
+BESIDE_tri_sta: acc: 0.8622723962126729
+
+2018-09-04 16:21:34.417343: model: ./emb/example.emb.ep10
+BESIDE_tri_sta: acc: 0.862272
+

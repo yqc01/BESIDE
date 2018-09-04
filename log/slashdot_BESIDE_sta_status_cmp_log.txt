@@ -1,0 +1,3 @@
+2018-09-04 16:21:56.450392: model: ./emb/example.emb.ep10
+BESIDE_sta: acc: 0.774372
+
