@@ -79,7 +79,7 @@ python status_comp.py BESIDE_tri_sta slashdot ./dataset/soc-sign-Slashdot090221.
 edgelist format of signed directed network:
 	<node1_id> <node2_id> \<sign>
 
-detail can be drawn from [here](http://snap.stanford.edu/data/soc-Slashdot0902.html).
+detail can be drawn from [here](http://snap.stanford.edu/data/soc-sign-Slashdot090221.html).
 
 #### Output
 test results are in log/ directory;
